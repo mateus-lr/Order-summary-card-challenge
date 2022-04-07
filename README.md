@@ -16,7 +16,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Overview
 
-This is my first challenge on Frontend Mentor. I expect do one per day to train my HTML and CSS abilitys.
+This project I used mobile-first workflow and flexbox.
+Improvement suggestion are welcomed!
 
 ### Screenshot
 
@@ -27,7 +28,7 @@ This is my first challenge on Frontend Mentor. I expect do one per day to train 
 
 ### Links 
 
-[Live Site](##)
+[Live Site](https://mateus-lr.github.io/Order-summary-card-challenge/)
 
 ### Built with
 
